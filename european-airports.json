@@ -1700,7 +1700,7 @@
     "lng": 6.111490799999999,
     "free_water": null,
     "cost_of_water": "no data",
-    "water_quality": "no data",
+    "water_quality": "very good",
     "comments": null
   },
   {
@@ -1712,7 +1712,7 @@
     "lng": 5.2220173,
     "free_water": null,
     "cost_of_water": "no data",
-    "water_quality": "no data",
+    "water_quality": "very good",
     "comments": null
   },
   {
@@ -1724,7 +1724,7 @@
     "lng": 14.3622371,
     "free_water": null,
     "cost_of_water": "no data",
-    "water_quality": "no data",
+    "water_quality": "very good",
     "comments": null
   },
   {
@@ -1736,7 +1736,7 @@
     "lng": 5.212986799999999,
     "free_water": null,
     "cost_of_water": "no data",
-    "water_quality": "no data",
+    "water_quality": "very good",
     "comments": null
   },
   {
@@ -1748,8 +1748,8 @@
     "lng": 16.681443,
     "free_water": "yes",
     "cost_of_water": "no data",
-    "water_quality": "no data",
-    "comments": null
+    "water_quality": "very good",
+    "comments": "One of the best in the world."
   },
   {
     "name": "Kristiansand Airport",
@@ -1760,7 +1760,7 @@
     "lng": 8.0837693,
     "free_water": null,
     "cost_of_water": "no data",
-    "water_quality": "no data",
+    "water_quality": "very good",
     "comments": null
   },
   {
@@ -1772,7 +1772,7 @@
     "lng": 10.784197,
     "free_water": null,
     "cost_of_water": "no data",
-    "water_quality": "no data",
+    "water_quality": "very good",
     "comments": null
   },
   {
@@ -1784,8 +1784,8 @@
     "lng": 11.1004153,
     "free_water": "yes",
     "cost_of_water": "no data",
-    "water_quality": "no data",
-    "comments": null
+    "water_quality": "very good",
+    "comments": "Water fountain after security & at gate E."
   },
   {
     "name": "Sandefjord Airport Torp",
@@ -1796,7 +1796,7 @@
     "lng": 10.2569121,
     "free_water": null,
     "cost_of_water": "no data",
-    "water_quality": "no data",
+    "water_quality": "very good",
     "comments": null
   },
   {
@@ -1878,7 +1878,7 @@
     "icao": "EPMO",
     "lat": 52.4492645,
     "lng": 20.6512374,
-    "free_water": null,
+    "free_water": "no",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -1892,7 +1892,7 @@
     "lng": 16.8286158,
     "free_water": null,
     "cost_of_water": "no data",
-    "water_quality": "no data",
+    "water_quality": "good",
     "comments": null
   },
   {
@@ -1904,8 +1904,8 @@
     "lng": 20.9678911,
     "free_water": "no",
     "cost_of_water": "1.4 &euro;",
-    "water_quality": "no data",
-    "comments": null
+    "water_quality": "good",
+    "comments": "Only warm water in bathroom taps."
   },
   {
     "name": "Wroclaw Airport",
@@ -1916,7 +1916,7 @@
     "lng": 16.8809331,
     "free_water": null,
     "cost_of_water": "no data",
-    "water_quality": "no data",
+    "water_quality": "good",
     "comments": null
   },
   {
@@ -2168,8 +2168,8 @@
     "lng": 2.0832941,
     "free_water": null,
     "cost_of_water": "no data",
-    "water_quality": "no data",
-    "comments": null
+    "water_quality": "good",
+    "comments": "<a href='http://www.barcelonayellow.com/barcelona-faq/468-faq-is-tap-water-safe-to-drink'>Some people don't like the taste of Barcelona tap water very much</a>"
   },
   {
     "name": "Bilbao Airport",
