@@ -764,7 +764,7 @@
     "lng": 13.5216148,
     "free_water": "no",
     "cost_of_water": "3 &euro;",
-    "water_quality": "no data",
+    "water_quality": "good",
     "comments": "Taps in bathrooms provide cold water."
   },
   {
@@ -775,8 +775,8 @@
     "lat": 52.5588327,
     "lng": 13.2884374,
     "free_water": "no",
-    "cost_of_water": "no data",
-    "water_quality": "no data",
+    "cost_of_water": "3 &euro;",
+    "water_quality": "good",
     "comments": null
   },
   {
