@@ -1110,10 +1110,10 @@
     "icao": "BIKF",
     "lat": 63.98680669999999,
     "lng": -22.6279668,
-    "free_water": null,
+    "free_water": "yes",
     "cost_of_water": "no data",
-    "water_quality": "no data",
-    "comments": null
+    "water_quality": "very good",
+    "comments": "You have to ask for it at any of the food places. Several bathroom taps also have cold water."
   },
   {
     "name": "Cork Airport",
@@ -1122,8 +1122,8 @@
     "icao": "EICK",
     "lat": 51.8449269,
     "lng": -8.4927917,
-    "free_water": null,
-    "cost_of_water": "no data",
+    "free_water": "no",
+    "cost_of_water": "1 &euro;",
     "water_quality": "no data",
     "comments": null
   },
@@ -1134,8 +1134,8 @@
     "icao": "EIDW",
     "lat": 53.42644809999999,
     "lng": -6.249909799999999,
-    "free_water": null,
-    "cost_of_water": "no data",
+    "free_water": "no",
+    "cost_of_water": "1 &euro;",
     "water_quality": "no data",
     "comments": null
   },
@@ -1290,9 +1290,9 @@
     "icao": "LIRQ",
     "lat": 43.8086534,
     "lng": 11.2012247,
-    "free_water": null,
+    "free_water": "no",
     "cost_of_water": "no data",
-    "water_quality": "no data",
+    "water_quality": "so-so",
     "comments": null
   },
   {
