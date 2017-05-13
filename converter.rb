@@ -22,6 +22,11 @@ airports_array = CSV.read("european-airports_raw", { :col_sep => "\t" })
   new["icao"] = airport[3]
   new["lat"] = airport[4]["lat"]
   new["lng"] = airport[4]["lng"]
+  new["free_water"] = nil
+  new["cost_of_water"] = "no data"
+  new["water_quality"] = "no data"
+  new["comments"] = nil
+
   @located_airports << new
 end
 
