@@ -2094,9 +2094,9 @@
     "icao": "LYBE",
     "lat": 44.820498,
     "lng": 20.291691,
-    "free_water": null,
+    "free_water": "no",
     "cost_of_water": "no data",
-    "water_quality": "no data",
+    "water_quality": "good",
     "comments": null
   },
   {
@@ -2166,7 +2166,7 @@
     "icao": "LEBL",
     "lat": 41.297445,
     "lng": 2.0832941,
-    "free_water": null,
+    "free_water": "no",
     "cost_of_water": "no data",
     "water_quality": "good",
     "comments": "<a href='http://www.barcelonayellow.com/barcelona-faq/468-faq-is-tap-water-safe-to-drink'>Some people don't like the taste of Barcelona tap water very much</a>"
@@ -2516,7 +2516,7 @@
     "lng": 8.910109499999999,
     "free_water": null,
     "cost_of_water": "no data",
-    "water_quality": "no data",
+    "water_quality": "very good",
     "comments": null
   },
   {
@@ -2526,9 +2526,9 @@
     "icao": "LSZH",
     "lat": 47.4582165,
     "lng": 8.5554755,
-    "free_water": null,
-    "cost_of_water": "no data",
-    "water_quality": "no data",
+    "free_water": "yes",
+    "cost_of_water": "3 &euro;",
+    "water_quality": "very good",
     "comments": null
   },
   {
