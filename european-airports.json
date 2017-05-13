@@ -1842,10 +1842,10 @@
     "icao": "EPGD",
     "lat": 54.3788433,
     "lng": 18.468075,
-    "free_water": null,
+    "free_water": "no",
     "cost_of_water": "no data",
-    "water_quality": "no data",
-    "comments": null
+    "water_quality": "good",
+    "comments": "<a href='http://trojmiasto.wyborcza.pl/trojmiasto/1,154495,10581813,W_Gdansku_woda_z_kranu_jest_lepsza_niz_ta_w_butelkach.html'>One of the best water in the country</a>."
   },
   {
     "name": "Katowice Airport",
@@ -1854,9 +1854,9 @@
     "icao": "EPKT",
     "lat": 50.4728015,
     "lng": 19.0758814,
-    "free_water": null,
+    "free_water": "no",
     "cost_of_water": "no data",
-    "water_quality": "no data",
+    "water_quality": "so-so",
     "comments": null
   },
   {
@@ -1866,7 +1866,7 @@
     "icao": "EPKK",
     "lat": 50.0769776,
     "lng": 19.7881188,
-    "free_water": null,
+    "free_water": "no",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
