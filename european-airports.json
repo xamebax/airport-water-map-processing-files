@@ -1867,7 +1867,7 @@
     "lat": 50.0769776,
     "lng": 19.7881188,
     "free_water": "no",
-    "cost_of_water": "no data",
+    "cost_of_water": "1.3 &euro;",
     "water_quality": "no data",
     "comments": null
   },
@@ -1890,10 +1890,10 @@
     "icao": "EPPO",
     "lat": 52.4199508,
     "lng": 16.8286158,
-    "free_water": null,
-    "cost_of_water": "no data",
+    "free_water": "no",
+    "cost_of_water": "1 &euro;",
     "water_quality": "good",
-    "comments": null
+    "comments": "Tap water confirmed to be drinkable by airport."
   },
   {
     "name": "Warsaw Airport",
