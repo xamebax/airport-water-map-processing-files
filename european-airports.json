@@ -750,10 +750,10 @@
     "icao": "EDDB",
     "lat": 52.38544109999999,
     "lng": 13.5216148,
-    "free_water": null,
+    "free_water": true,
     "cost_of_water": "no data",
     "water_quality": "no data",
-    "comments": null
+    "comments": "Everything is free if you manage to enter."
   },
   {
     "name": "Berlin Schönefeld Airport",
@@ -762,8 +762,8 @@
     "icao": "EDDB",
     "lat": 52.38544109999999,
     "lng": 13.5216148,
-    "free_water": null,
-    "cost_of_water": "no data",
+    "free_water": false,
+    "cost_of_water": 3,
     "water_quality": "no data",
     "comments": null
   },
@@ -774,7 +774,7 @@
     "icao": "EDDT",
     "lat": 52.5588327,
     "lng": 13.2884374,
-    "free_water": null,
+    "free_water": false,
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -846,7 +846,7 @@
     "icao": "EDDF",
     "lat": 50.0379326,
     "lng": 8.562151799999999,
-    "free_water": null,
+    "free_water": true,
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -1638,7 +1638,7 @@
     "icao": "EHAM",
     "lat": 52.3105386,
     "lng": 4.7682744,
-    "free_water": null,
+    "free_water": false,
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -1740,6 +1740,18 @@
     "comments": null
   },
   {
+    "name": "Harstad/Narvik Airport",
+    "country": "Norway",
+    "iata": "EVE",
+    "icao": "ENEV",
+    "lat": 68.488596,
+    "lng": 16.681443,
+    "free_water": true,
+    "cost_of_water": "no data",
+    "water_quality": "no data",
+    "comments": null
+  },
+  {
     "name": "Kristiansand Airport",
     "country": "Norway",
     "iata": "KRS",
@@ -1770,7 +1782,7 @@
     "icao": "ENGM",
     "lat": 60.1975501,
     "lng": 11.1004153,
-    "free_water": null,
+    "free_water": true,
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -1890,8 +1902,8 @@
     "icao": "EPWA",
     "lat": 52.1672369,
     "lng": 20.9678911,
-    "free_water": null,
-    "cost_of_water": "no data",
+    "free_water": false,
+    "cost_of_water": 1.4,
     "water_quality": "no data",
     "comments": null
   },
@@ -2202,7 +2214,7 @@
     "icao": "GCLP",
     "lat": 27.9331848,
     "lng": -15.3877066,
-    "free_water": null,
+    "free_water": false,
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
