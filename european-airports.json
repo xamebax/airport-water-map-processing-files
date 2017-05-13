@@ -750,7 +750,7 @@
     "icao": "EDDB",
     "lat": 52.38544109999999,
     "lng": 13.5216148,
-    "free_water": true,
+    "free_water": "yes",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": "Everything is free if you manage to enter."
@@ -762,10 +762,10 @@
     "icao": "EDDB",
     "lat": 52.38544109999999,
     "lng": 13.5216148,
-    "free_water": false,
-    "cost_of_water": 3,
+    "free_water": "no",
+    "cost_of_water": "3 &euro;",
     "water_quality": "no data",
-    "comments": null
+    "comments": "Taps in bathrooms provide cold water."
   },
   {
     "name": "Berlin Tegel Airport",
@@ -774,7 +774,7 @@
     "icao": "EDDT",
     "lat": 52.5588327,
     "lng": 13.2884374,
-    "free_water": false,
+    "free_water": "no",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -846,7 +846,7 @@
     "icao": "EDDF",
     "lat": 50.0379326,
     "lng": 8.562151799999999,
-    "free_water": true,
+    "free_water": "yes",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -1482,7 +1482,7 @@
     "icao": "LIPZ",
     "lat": 45.5028312,
     "lng": 12.3478246,
-    "free_water": null,
+    "free_water": "no",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -1638,7 +1638,7 @@
     "icao": "EHAM",
     "lat": 52.3105386,
     "lng": 4.7682744,
-    "free_water": false,
+    "free_water": "no",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -1746,7 +1746,7 @@
     "icao": "ENEV",
     "lat": 68.488596,
     "lng": 16.681443,
-    "free_water": true,
+    "free_water": "yes",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -1782,7 +1782,7 @@
     "icao": "ENGM",
     "lat": 60.1975501,
     "lng": 11.1004153,
-    "free_water": true,
+    "free_water": "yes",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -1902,8 +1902,8 @@
     "icao": "EPWA",
     "lat": 52.1672369,
     "lng": 20.9678911,
-    "free_water": false,
-    "cost_of_water": 1.4,
+    "free_water": "no",
+    "cost_of_water": "1.4 &euro;",
     "water_quality": "no data",
     "comments": null
   },
@@ -2214,7 +2214,7 @@
     "icao": "GCLP",
     "lat": 27.9331848,
     "lng": -15.3877066,
-    "free_water": false,
+    "free_water": "no",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -2874,7 +2874,7 @@
     "icao": "EGLL",
     "lat": 51.4700223,
     "lng": -0.4542955,
-    "free_water": null,
+    "free_water": "yes",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
