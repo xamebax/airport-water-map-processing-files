@@ -1002,10 +1002,10 @@
     "icao": "LGAV",
     "lat": 37.9356467,
     "lng": 23.9484156,
-    "free_water": null,
+    "free_water": "yes",
     "cost_of_water": "no data",
-    "water_quality": "no data",
-    "comments": null
+    "water_quality": "good",
+    "comments": "Numerous fountains all around the airport."
   },
   {
     "name": "Chania Airport",
@@ -1614,8 +1614,8 @@
     "icao": "LYPG",
     "lat": 42.3603394,
     "lng": 19.2507601,
-    "free_water": null,
-    "cost_of_water": "no data",
+    "free_water": "no",
+    "cost_of_water": "3 &euro;",
     "water_quality": "no data",
     "comments": null
   },
@@ -1914,7 +1914,7 @@
     "icao": "EPWR",
     "lat": 51.1041654,
     "lng": 16.8809331,
-    "free_water": null,
+    "free_water": "no",
     "cost_of_water": "no data",
     "water_quality": "good",
     "comments": null
@@ -2034,7 +2034,7 @@
     "icao": "UUDD",
     "lat": 55.41030689999999,
     "lng": 37.9024513,
-    "free_water": null,
+    "free_water": "no",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -2514,7 +2514,7 @@
     "icao": "LSZA",
     "lat": 46.0044161,
     "lng": 8.910109499999999,
-    "free_water": null,
+    "free_water": "yes",
     "cost_of_water": "no data",
     "water_quality": "very good",
     "comments": null
