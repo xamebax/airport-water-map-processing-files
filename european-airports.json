@@ -6,10 +6,10 @@
     "icao": "LATI",
     "lat": 41.41444509999999,
     "lng": 19.7192999,
-    "free_water": null,
+    "free_water": "no",
     "cost_of_water": "no data",
     "water_quality": "no data",
-    "comments": null
+    "comments": "<a href='http://isthewatersafetodrink.com/armenia/yerevan/'>You might want to skip tap water if you're not local</a>."
   },
   {
     "name": "Yerevan Zvartnots Airport",
@@ -20,8 +20,8 @@
     "lng": 44.3988571,
     "free_water": null,
     "cost_of_water": "no data",
-    "water_quality": "no data",
-    "comments": null
+    "water_quality": "so-so",
+    "comments": "<a href='http://isthewatersafetodrink.com/armenia/yerevan/'>You might want to skip tap water if you're not local</a>."
   },
   {
     "name": "Graz Airport",
@@ -342,10 +342,10 @@
     "icao": "LKPR",
     "lat": 50.10179100000001,
     "lng": 14.2631811,
-    "free_water": null,
+    "free_water": "yes",
     "cost_of_water": "no data",
     "water_quality": "no data",
-    "comments": null
+    "comments": ""
   },
   {
     "name": "Aalborg Airport",
@@ -666,10 +666,10 @@
     "icao": "LFPG",
     "lat": 49.0096906,
     "lng": 2.5479245,
-    "free_water": null,
-    "cost_of_water": "no data",
+    "free_water": "yes",
+    "cost_of_water": "4 &euro;",
     "water_quality": "no data",
-    "comments": null
+    "comments": "The water fountains often don't work. Bathroom taps serve warm water only."
   },
   {
     "name": "Paris Orly Airport",
@@ -882,10 +882,10 @@
     "icao": "EDDH",
     "lat": 53.633622,
     "lng": 9.9974128,
-    "free_water": null,
+    "free_water": "yes",
     "cost_of_water": "no data",
-    "water_quality": "no data",
-    "comments": null
+    "water_quality": "good",
+    "comments": "There are <a href='https://www.hamburg-airport.de/en/8520.php'>four fountains</a>."
   },
   {
     "name": "Hannover Airport",
@@ -896,7 +896,7 @@
     "lng": 9.6889919,
     "free_water": null,
     "cost_of_water": "no data",
-    "water_quality": "no data",
+    "water_quality": "so-so",
     "comments": null
   },
   {
@@ -1974,7 +1974,7 @@
     "icao": "LPPR",
     "lat": 41.2421186,
     "lng": -8.6785514,
-    "free_water": null,
+    "free_water": "no",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -2430,9 +2430,9 @@
     "icao": "ESMS",
     "lat": 55.5355336,
     "lng": 13.3723829,
-    "free_water": null,
+    "free_water": "no",
     "cost_of_water": "no data",
-    "water_quality": "no data",
+    "water_quality": "good",
     "comments": null
   },
   {
@@ -2718,10 +2718,10 @@
     "icao": "EGBB",
     "lat": 52.45238209999999,
     "lng": -1.7435071,
-    "free_water": null,
+    "free_water": "yes",
     "cost_of_water": "no data",
-    "water_quality": "no data",
-    "comments": null
+    "water_quality": "good",
+    "comments": "<a href='https://twitter.com/bhx_official/status/253465810289446912'>Source</a>."
   },
   {
     "name": "Bristol Airport",
@@ -2862,7 +2862,7 @@
     "icao": "EGKK",
     "lat": 51.1536621,
     "lng": -0.1820629,
-    "free_water": null,
+    "free_water": "yes",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -2886,8 +2886,8 @@
     "icao": "EGGW",
     "lat": 51.87626460000001,
     "lng": -0.3717471,
-    "free_water": null,
-    "cost_of_water": "no data",
+    "free_water": "no",
+    "cost_of_water": "3 &euro;",
     "water_quality": "no data",
     "comments": null
   },
@@ -2898,7 +2898,7 @@
     "icao": "EGMC",
     "lat": 51.5698197,
     "lng": 0.7037369,
-    "free_water": null,
+    "free_water": "yes",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -2910,7 +2910,7 @@
     "icao": "EGSS",
     "lat": 51.8860181,
     "lng": 0.2388661,
-    "free_water": null,
+    "free_water": "yes",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
