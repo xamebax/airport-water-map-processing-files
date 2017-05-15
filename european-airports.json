@@ -90,7 +90,7 @@
     "icao": "LOWW",
     "lat": 48.1158333,
     "lng": 16.5665751,
-    "free_water": null,
+    "free_water": "no",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -1242,7 +1242,7 @@
     "icao": "LIBR",
     "lat": 40.6567625,
     "lng": 17.9453492,
-    "free_water": null,
+    "free_water": "no",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -1350,7 +1350,7 @@
     "icao": "LIRN",
     "lat": 40.8829943,
     "lng": 14.2865792,
-    "free_water": null,
+    "free_water": "no",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -1446,7 +1446,7 @@
     "icao": "LICT",
     "lat": 37.901504,
     "lng": 12.496009,
-    "free_water": null,
+    "free_water": "no",
     "cost_of_water": "no data",
     "water_quality": "no data",
     "comments": null
@@ -2118,9 +2118,9 @@
     "icao": "LZIB",
     "lat": 48.1702634,
     "lng": 17.2105238,
-    "free_water": null,
+    "free_water": "no",
     "cost_of_water": "no data",
-    "water_quality": "no data",
+    "water_quality": "good",
     "comments": null
   },
   {
